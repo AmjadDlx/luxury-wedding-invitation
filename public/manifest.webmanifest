@@ -1,0 +1,24 @@
+{
+  "name": "Emma & Liam Wedding Invitation",
+  "short_name": "Emma & Liam",
+  "description": "A luxury wedding invitation for Emma and Liam.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fffdf7",
+  "theme_color": "#f5e7bf",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

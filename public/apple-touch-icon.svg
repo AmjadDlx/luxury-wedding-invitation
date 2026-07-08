@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-labelledby="title">
+  <title id="title">Emma and Liam wedding app icon</title>
+  <rect width="180" height="180" rx="42" fill="#fffdf7"/>
+  <circle cx="90" cy="90" r="66" fill="none" stroke="#d4af37" stroke-width="5"/>
+  <circle cx="90" cy="90" r="54" fill="#f5e7bf" opacity=".36"/>
+  <path fill="#9a741d" d="M61 110V70h25v7H69v9h15v7H69v10h18v7H61Zm39 0V70h8v33h18v7h-26Z"/>
+</svg>
